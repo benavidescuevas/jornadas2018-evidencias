@@ -1,0 +1,1 @@
+En el presente paquete se han incluído las tareas que no pertenecían a cualquiera de las otras dos categorías, es decir, dos relacionadas con el Kahoot, repartir muñequitos para el tablón y la participación en la gymkhana. En total, el tiempo (sin contar horas dobles) de este apartado asciende a 3h 45min

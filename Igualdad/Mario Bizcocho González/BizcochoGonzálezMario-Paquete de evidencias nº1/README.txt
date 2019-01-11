@@ -1,0 +1,1 @@
+En el presente paquete se han incluído todas las evidencias relacionadas con las reuniones, por lo que se adjuntan en Anexos las actas de reunión. El tiempo total de desarrollo de las reuniones ha sido de 5h 15min

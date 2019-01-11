@@ -1,0 +1,78 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "This API generates simple JWT for testing.",
+    "version": "1.0.0",
+    "title": "Simple Testing JWT Generator"
+  },
+  "paths": {
+    "/generate": {
+      "get": {
+        "summary": "Generates a simple JWT",
+        "description": "This endpoing generates a JWT based on some parameters",
+        "operationId": "generateToken",
+        "parameters": [{
+          "name": "issuer",
+          "in": "query",
+          "description": "Token issuer",
+          "required": true,
+          "schema": {
+            "type": "string"
+          }
+        }, {
+          "name": "key",
+          "in": "query",
+          "description": "Token key",
+          "required": true,
+          "schema": {
+            "type": "string"
+          }
+        }, {
+          "name": "role",
+          "in": "query",
+          "description": "User role",
+          "required": false,
+          "schema": {
+            "type": "string"
+          }
+        }, {
+          "name": "sampleId",
+          "in": "query",
+          "description": "Sample ID",
+          "required": false,
+          "schema": {
+            "type": "string"
+          }
+        }],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                    "$ref": "#/components/schemas/Token"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "servers": [{
+    "url": "https://simple-testing-jwt-generator.herokuapp.com/api"
+  }],
+  "components": {
+    "schemas": {
+      "Token": {
+        "type": "object",
+        "required": ["token"],
+        "properties": {
+          "token": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

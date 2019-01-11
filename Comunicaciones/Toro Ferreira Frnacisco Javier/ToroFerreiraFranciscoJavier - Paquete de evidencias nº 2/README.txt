@@ -1,0 +1,2 @@
+Este paquete recoge las evidencias relativas a mi asistencia a las reuniones del comité de Comunicación cuando mi horario laboral me lo ha permitido.
+El número de horas total invertido en estas tareas es de 1 hora.

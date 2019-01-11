@@ -1,0 +1,1 @@
+Al margen de las horas de asistencia, he trabajado un total 3,5h en la seguridad del almuerzo del cierre de las jornadas, colaborando a desmontar el mismo almuerzo, así como participando en una reunión del módulo de finanzas. Por si fuera necesario, el anexo 2 es un justificante médico que aclara por qué no pude implicarme más en las semanas previas a las jornadas.

@@ -1,0 +1,2 @@
+He realizado la venta de papaletas por distintos sitios de la universidad y en mi barrio.El tesorero de finanzas puede corroborar que tuve mis 30 papaletas vendidas con un precio de 30 euros.
+HORAS TOTALES INVERTIDAS =5

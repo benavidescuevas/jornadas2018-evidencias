@@ -1,0 +1,21 @@
+para tratar que sea más o menos similar los documentos llamadlo por vuestro nombre  seguido de un guión y la fecha que se refleja en el trabajo y en la carpeta "Seguimiento",
+crearos una carpeta con vuestro nombre
+
+
+EJ:
+			Alfonso-31 10 18.txt
+			
+Dentro del documento simplemente con que tengais el tiempo invertido,el dia de esas horas  y un titulo de de que es el trabajo es suficiente
+
+
+EJ:
+
+	31 de octure   Realización txt explicativo   15min
+	30 de octure   Revisión carteles ponencias   45min
+	
+	
+	
+Dentro de la carpeta "seguimiento" recordad crearos una carpeta con vuestro nombre y ahi meteis ya los reportes
+
+
+Si teneis cualquier duda pues escribidme y os lo explico sin problemas, yo de estos reportes tendré una copia de seguridad igualmente ,por si borrais algo sin querer

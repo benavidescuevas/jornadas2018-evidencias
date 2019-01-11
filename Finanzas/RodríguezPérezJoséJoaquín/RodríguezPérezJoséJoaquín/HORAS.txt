@@ -1,0 +1,33 @@
+**************************************
+**********HORAS DE ASISTENCIA*********
+**************************************
+Conferencia-Frontend también es diseño					- 1h
+Conferencia-Los Nuevos Retos en la Ingeniería de Software Aplicada 	- 1h
+Conferencia-Kubernetes con Prometheus y Grafana				- 1h + 1h redes sociales
+Conferencia-OAS-Tools/Generator						- 1h + 1h redes sociales
+Conferencia-Blockchain, qué es y cómo funciona				- 2h
+Seguridad en entornos IoT						- 40 min
+Mesa redonda								- 1h 20min + 1h extra	
+
+**************************************
+*************MICRO TRABAJOS***********
+**************************************
+Venta de papeleas		- 8h		(Vendidas 60 papeletas)
+Micro trabajo taller		- 5h		(Taller niños, MT0017)
+Micro trabajo logo		- 1h 30min	(Logo asociación mujeres, MT0008)
+
+
+
+-asistencia: 	 8h efectivas: 7h				
+-mias:		 2h redes sociales				 	
+		+8h papeletas				
+		+1h 30min logo asociación
+		+5h taller niños
+	TOTAL: 16h y 30min totales
+
+**************************************
+************** TOTAL *****************
+**************************************
+-asistencias= 7h
+-micro trabajos= 16h y 30min
+-totales= 23h y 30min

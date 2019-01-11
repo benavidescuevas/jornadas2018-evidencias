@@ -1,0 +1,1 @@
+En este paquete se incluye las evidencias de 5 reuniones tanto generales como de presidencia con un total de 5 horas y 40 minutos.

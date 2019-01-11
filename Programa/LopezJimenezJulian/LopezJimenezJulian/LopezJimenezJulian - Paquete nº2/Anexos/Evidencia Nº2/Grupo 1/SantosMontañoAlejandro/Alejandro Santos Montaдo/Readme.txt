@@ -1,0 +1,3 @@
+El número total de horas de mi trabajo han sido de 36 horas y 55 minutos. Considero que mi trabajo ha sido satisfactorio en la jornada, ya que la gincana supuso bastante preparación y esfuerzo y estamos bastante contentos tanto yo como mi compañero del resultado final de esta. Luego fui a muchas conferencias superando con creces las 6 horas máxima de asistencia pero aún así no me importaba porque muchas de ellas me parecían muy interesantes y acabe yendo en horas reales más de 11 horas de asistencia.
+
+En resumen considero que mi trabajo en las jornadas ha sido bastante bueno.

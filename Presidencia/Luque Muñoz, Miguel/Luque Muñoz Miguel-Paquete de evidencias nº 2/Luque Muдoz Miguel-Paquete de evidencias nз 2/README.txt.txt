@@ -1,0 +1,1 @@
+En este paquete se muestran las reuniones a las que he asistido sumando un total de 12 horas y media

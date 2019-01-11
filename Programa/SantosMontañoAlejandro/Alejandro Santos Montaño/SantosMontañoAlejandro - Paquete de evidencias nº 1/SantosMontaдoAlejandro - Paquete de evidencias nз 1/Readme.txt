@@ -1,0 +1,1 @@
+En este paquete he incluido las evidencias del desarrollo de la gincana, lo he puesto como una sola evidencia la cual tiene una duración de 19 horas, en ella lo que explico es cómo hemos desarrollado la gincana y los documentos que se han hecho, y las pruebas de ellos.

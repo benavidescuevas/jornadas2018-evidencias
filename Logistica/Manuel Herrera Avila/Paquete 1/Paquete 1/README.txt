@@ -1,0 +1,2 @@
+En este paquete han incluido las evidencias de una de las reuniones del comité de logística, las evidencias de hacer problemas para el tournametsii y las evidencias de trabajo del viernes.
+En total suman 3 horas y 45 minutos.

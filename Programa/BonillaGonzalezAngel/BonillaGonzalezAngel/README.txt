@@ -1,0 +1,9 @@
+Mi trabajo a nivel general se ha centrado en la creación de TOURNAMETSII y del taller de niños. En ambos no solo contribuí desde el principio para su puesta en marcha, sino también en la preparación de diferentes documentaciones y material necesario para llevar a cabo ambos. Además de hacer acto de presencia en ambos para ayudar todo el equipo con la coordinación, en el caso del taller de niños tuve que tratar con estos para que el taller saliera adelante y con un buen feedback por parte de los profesores de los colegios invitados (Corpus Cristis y Adoratrices). Todo este trabajo se ha traducido en unas 19 horas de trabajo previo para la organización, y unas 14 horas de trabajo durante las jornadas como organizador (estas horas han sido calculadas teniendo en cuenta que la organización durante eventos de la jornada cuenta como horas dobles hasta acumular 12 horas, en mí caso 3 horas y 30 minutos por la parte de TOURNAMETSII, y 4 horas y 30 minutos por la parte del taller, sumando un total de 8 horas sin hacer la tranformación).
+
+No sólo esto, también he tenido una buena participación como asistente a las jornadas atendiendo a casi todos los eventos organizados, incluyendo el cierre de las jornadas con la mesa redonda. Esta asistencia ha supuesto un computo de horas total de 8 horas y 30 minutos (teniendo en cuenta que la asistencia a la mesa redonda tenía un bonus de horas). Como existe un máximo de horas a 7 este es mi computo total de asistencia.
+
+Teniendo en cuenta todo lo anteriormente expuesto he conseguido un total de 40 horas (si mis cálculos no están mal, insisto en que sean revisados).
+
+Todas las evidencias tienen anexionadas (en la segunda página) la correpondiente acta de reunión, archivo, etc.
+
+Las entradas están adjuntas en las mismas evidencias correspondientes a la asistencia (es decir en el mismo archivo, en la segunda página), además de tener su versión con QR y verificadas por separado en formato .pdf.

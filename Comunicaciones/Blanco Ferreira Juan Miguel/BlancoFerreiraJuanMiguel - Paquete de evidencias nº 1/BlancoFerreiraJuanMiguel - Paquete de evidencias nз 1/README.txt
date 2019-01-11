@@ -1,0 +1,1 @@
+En este paquete de evidencias se adjunta la asistencia a las reuniones del comité de comunicación, con un total de 3:00 horas de trabajo, y los distintos trabajos realizados para la web durante toda la preparación de las jornadas (realización de formularios, resumen de edición anterior de las jornadas, cambio de logos...), con 8:30 horas de trabajo

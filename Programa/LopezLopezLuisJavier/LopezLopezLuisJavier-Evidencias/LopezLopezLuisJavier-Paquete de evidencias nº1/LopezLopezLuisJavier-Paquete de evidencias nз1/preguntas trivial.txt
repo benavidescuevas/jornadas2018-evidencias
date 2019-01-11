@@ -1,0 +1,238 @@
+PREGUNTAS TRIVIAL JORNADAS EGC
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@INICIOS DE LA INGENIERÍA INFORMATICA EN SEVILLA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+****************************************ESCUELA E INICIOS DEL GRADO***************************
+0-¿Cual fue el primer edificio en el que se empezo a impartir por primera vez la Licenciatura de Ingeniería Informática?
+1-¿En que año se comenzó?
+2-¿En cuantas Diplomaturas comenzón la carrera?
+3-¿Qué nombre inicialmente tuvieron las mismas?
+4-¿Qué recursos se echaron más en falta durante los primeros años de la Escuela?
+
+RESPUESTAS
+0- Escuela Universitaria de Ingeniería Técnica Industrial, con sede en el barrio de Los Remedios
+1-1985/86 
+2-2
+3-Diplomaturas Ingeniería (Informatica de Gestión ,Ingeniería Informatica de Sistemas,Informática del Software, Informática de Computadores)
+4-(Ordenadores y Libros sobre Informática,Profesorado y Alumnado)
+
+****************************************************************************************
+0-¿Contaban los alumnos con una oferta laboral estable?
+1-¿En curso de media empezaban los alumnos a trabajar?
+2-¿En que año se pasó de diplomatura a licenciatura?
+3-¿A que escula se paso como sede tras la licenciatura?
+4-¿Qué recursos se echaron más en falta durante los primeros años de la Licenciatura?
+
+RESPUESTAS
+0-SI
+1-Segundo Curso
+2-1989/90
+3-Escuela Técnica Superior de Ingenieros Industriales, con sede en el campus de Reina Mercedes
+4-(Ordenadores y Libros sobre Informática,Profesorado y Alumnado)
+
+
+****************************************************************************************
+0-¿En que edificio se unificaron la diplomatura y la licenciatura en el año 1990/1991?
+1-¿Como se apodo este edificio?
+2-¿Qué siglas recibio esta nueva escuela?
+3-¿Que cifra record alcanzó el numero de matriculados de primer curso en la FIE?
+4-¿Que fue mas cambió significativo en esta nueva escuela?
+
+RESPUESTAS
+0-Facultad de Informática y Estadística, para la que se construyó un nuevo edificio en el campus de Reina Mercedes
+1-El edificio rojo
+2-FIE
+3-4000
+4-El aumento de recursos materiales y prestaciones de la escula, La situación geográfica y la mayor comunicacion con el resto de facultades y Grados del campus
+
+
+****************************************************************************************
+0-¿En que curso se concibiero las tres titulaciones actuales?
+1-¿En que curso se comenzo la a denominar y recibir el título de Ingeniería Informática ?
+2-¿Qué supuso el auge y el amumento de la demanda durante estos años?
+3-¿Que cifra record alcanzó el numero de matriculados de primer curso en la FIE?
+4-¿Que fue mas cambió significativo en esta nueva escuela?
+
+RESPUESTAS
+0-96/97
+1-96/97
+2-Que parte de las clases se volvieran a impartir en la Escuela Técnica Superior de Ingenieros Industriales, La ampliacion de la escuela
+3-4000
+4-El aumento de recursos materiales y prestaciones de la escula, La situación geográfica y la mayor comunicacion con el resto de facultades y Grados del campus
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@CURIOSIDADES DE LA INFORMÁTICA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+0-¿Qué logro en menos tiempo los 50 millones de usuarios?
+1-¿Cual fue el primer dominio registrado en Internet?
+2-¿Cual es el colmo de la informática?
+3-¿Cuántas veces parpadéa una persona de media que mira una pantalla?
+4-¿Que nombre tecnologico fue mas usado en 2012 con mas de 17 bebes registrados?
+5-¿En que pais existe una fabrica que puede operar con total normalidad durante 30 días seguidos sin ningún tipo de supervisión?
+6-¿En que país surgiero tiendas de Apple piratas que hasta sus propios empledos creyeron que vendian productos Apple?
+7-¿Quien fue el hombre del año segun la revista Times en 1982?
+8-¿Que hizo steve jobs cuando le enseñaron el primer prototipo de Ipod?
+9-¿Cuántos virus informáticos se liberan aproximadamente al mes?
+10-Que hubo gratuito en la historia de la informática
+11-Que dominio es mas usado y en que año nacio
+12-Que hora es significativa en los iphone y porq?
+13-Existe algun ordenador que funcione bajo el agua
+14-Cual fue el primer navegador de internet
+15-Que pais tiene mayor porcentaje de usuarios de internet
+16-Cuantos dominios de internet se registran al mes 
+17-Que metal es usado en ordenadores y chips
+18-En que año se invento el famoso ctrl+c ctrl+v  ctrl+x
+19-En que situacion se referencio por primera vez el termino Internet
+
+RESPUESTAS
+0-Radio,Tv,Internet
+1-Google.eu,Symbolics.com,Acme.co
+2-Que la casa de Bill Gates se diseño con un pc APPLE,Que steve jobs use los servicios de microsoft
+3-Menos que la que no lo hace 7 veces por minuto,mas de la que no lo hace 20 veces por minuto…
+4-Sony, Siri
+5-Japon,INDIA
+6-Japón,China
+7-R.Corchuelo, no fue un hombre fue una maquina(<<El computador>>)
+8-Reventaro contra una puerta,Tirarlo al agua
+9-Unos 6000, varios centenares
+10-El registro de dominios,la adquisicion de microrobots7
+11. .com 1984,.es 1990
+12-9:41 se presento el primer iphone, 5:10 es la hora en la que se fundo la mayor empresa de manzanas del mundo
+13-Si, el primero lo inventaron los rusos q son unos cracks/Actualmente no, esta en desarrollo
+14-Internet explorer 1991, Mosaic 1993
+15- Suecia, Japón
+16-aprox un millon de dominios
+17-Oro,Cobalto
+18-En 1981 en un ordenador Apple, En 1972 en el modelo IBM PS/2 
+19-1974, cuando Vinton Cerf y Bob Kahn incluyeron ese término en un informe sobre el protocolo TCP
+
+
+
+
+
+**********CUESTIONARIO DE 21 PREGUNTAS SOBRE EL ORIGEN DE NOMBRES DE MARCAS IMPORTANTES DE SOFTWARE
+https://www.marketingdirecto.com/anunciantes-general/anunciantes/asi-eligieron-estas-21-empresas-tecnologicas-sus-nombres
+1. Samsung
+
+-Palabra coreana que significa tres estrellas
+-Nombre de una placa base originaria de 1967
+
+La palabra “Samsung” significa en coreano “tres estrellas” y fue elegido para representar las tres virtudes: “grande, numeroso y poderoso”.
+
+2. Nokia
+
+-Una ciudad de Finlandia
+-Una fabrica de leds en Austria
+
+El nombre tiene su origen en la ciudad de Nokia (Finlandia) donde la empresa original comenzó su negocio a las afueras de la localidad cerca del río Nokiaanvirta. No fue hasta 1967 cuando la compañía tomó el nombre oficial de Nokia Corporation.
+
+3. Apple
+
+-Porque a Steve jobs le flipan las manzanas
+-Por localizarse la primera sede de la compañia junto a un manzanero 
+
+En los inicios de la empresa tuvieron que presentar un listado con nombres ficticios para su negocio entre los que por ejemplo se encontraba Matrix Electronics. Finalmente se decidió que si nadie aportaba nuevas sugerencias antes de la fecha límite de presentación, Apple (en parte por la gran afición a las manzanas de Steve Jobs) Computer sería el nombre definitivo de la compañía. En 2007 se eliminó el Computer para pasar a ser el archiconocido Apple.
+
+4. LG
+-La union de dos empresas cuyas iniciales eran L y G
+-Tiene su origen en el lema de la misma empresa Life is Good
+
+La empresa no comenzó con este nombre sino que en 1958 se fundó Goldstar con el objetivo de construir dispositivos electrónicos. Lak Hui (pronunciado Lucky) era la empresa hermana por lo que se unieron y nació Lucky Goldstar que contraído pasó a ser LG.
+
+5. HTC
+-Tiene su origen en Hihg Tech Computer
+-Proviene de Hihg Tech pero la C proviene del nombre de sus creadores
+
+Aunque muchos piensan que estas siglas significan High Tech Computer lo cierto es que las dos primeras siglas si se corresponden pero la C corresponde a las iniciales de sus fundadores Cho y Cher Wang.
+
+6. Spotify
+
+- Proviene de una propuesta de nombre mal pronunciada
+- Proviene de un el nombre del primer reproductor de música online que se conoce  
+
+El origen de este nombre es curioso ya que hace referencia a una propuesta de nombre mal escuchada por sus fundadores que les cayó en gracia y decidieron utilizarla.
+
+7. Sony
+
+-Proviene de una palabra inglesa
+-Provienen de la palabras "sonus" del latin que significa sonido
+
+Mezcla del término en latín “sonus” (sonido) y la palabra inglesa “sonny”.
+
+8. Nintendo
+
+-Proviene de un proverbio Japones
+-Proviene de un personaje de video-juegos 
+
+La historia más extendida es la que hace referencia a que Nintendo es la traducción literal del término japonés “dejar la suerte al destino”.
+
+9. Amazon
+-El nombre se lo pusieron unos amigos, barajaban tambien "Cadabra de opcion" por ser tan rapido como la magia
+-El nombre proviene de un dominio web equivocado en un servidor primario
+
+A punto estuvo Jeff Bezos de dominar a su creación “Cadabra” para demostrar que era tan rápido como la magia. La segunda opción fue Relentless pero sus amigos le dijeron que sonaba siniestro aunque si entra en la web Relentless.com (dominio registrado por Bezos) todavía le redirige a la web actual de Amazon, nombre por el que finalmente se decantaron.
+
+10. Google
+
+-De un error ortográfico
+-De una marca de caramelos americana
+
+La empresa tomó su nombre de un error ortográfico al escribir Googol.
+
+11. Microsoft
+
+-Mezcla de terminos "microprocesador" y "software"
+-Mezcla de terminos "microhondas" "sofá" y "té"
+
+
+Mezcla de los términos “microprocesador” y “software”.
+
+12. Facebook
+
+-Directorio universitario para recibir a los recien llegados
+-Nombre apodo  del equipo que lo desarrolló
+
+Nombre del directorio con el que los estudiantes de algunas universidades de EEUU dan la bienvenida a los recién llegados. Nació como thefacebook.com pero en 2005 asistimos al lanzamiento de Facebook.com
+
+13. Mozilla
+
+-Mosaic + Godzilla ya que sus creadores querian que el navegador aplastara la competencia 
+-Dominio web existente corrupto por un virus informatico que alojo el primer despliegue del navegador web
+
+El nombre inicial era “mosaic” pero sus creadores querían que este nuevo navegador aplastase a la compañía por lo que recurrieron al monstruo Godzilla. Mezclando ambos términos surgió Mozilla.
+
+14. Wikipedia
+
+Comenzó bajo el nombre de Nupedia pero ante el bajo ritmo de publicación de artículos en sus primeros años se decidió recurrir a Ward Cunningham WikiWikiWeb, uno de los primeros sitios web que permitía a los usuarios editar contenidos. De la combinación de ambos términos nació Wikipedia.
+
+15. Asus
+
+Nombre que deriva del mitológico caballo alado Pegaso.
+
+16. Lenovo
+
+Más de dos décadas permaneció esta empresa bajo el nombre de “Legend” pero en 2003 cuando lanzó al mercado su primera línea de ordenadores decidió conservar la sílaba “Le” e introducir el término “novo” para señalar novedad.
+
+17. Hulu
+
+El término no posee una traducción en inglés pero sí posee un doble significado en mandarín: “calabaza” y “dueño de cosas preciosas”.
+
+18. Skype
+
+Skype responde a una simple cuestión: falta de disponibilidad del nombre que realmente querían usar por lo que se combinaron los términos “Skype” y “peer to peer”.
+
+19. Twitter
+
+Originalmente nació como twttr siguiendo el ejemplo de Flickr pero finalmente se decidió buscar palabras relacionadas con “twttr” hasta que se decantaron por la opción final: Twitter.
+
+20. Yahoo!
+
+En lugar de basarse en significado real de la palabra “yahoo” (persona grosera, ruidosa o violenta) el término hace referencia a un acrónimo para que no fuese tan malsonante.
+
+21. SEGA
+
+El nombre de la empresa surgió tras su fusión en 1965 con su rival Rosen Enterprises pasando a denominarse como SEGA Enterprises.
+
+
+
+

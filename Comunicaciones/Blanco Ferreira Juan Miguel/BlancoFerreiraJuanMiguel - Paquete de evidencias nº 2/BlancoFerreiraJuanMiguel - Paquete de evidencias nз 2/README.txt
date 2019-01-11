@@ -1,0 +1,1 @@
+En este paquete de evidencias se adjunta el contacto con el periódico VivaSevilla y colgar carteles por la ciudad, con un total de 2:30 hora de trabajo, y el trabajo realizado durante las jornadas para aportar información sobre las mismas, con 6:00 horas de trabajo

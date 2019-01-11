@@ -1,0 +1,1 @@
+En el presente paquete se encuentran todas las tareas relacionadas con el taller de adolescentes que organicé junto con Camila Reyes, Daniel Carpio (Programa) y Rafael Fresno (Programa). En total, el tiempo de trabajo de este paquete (sin contar horas dobles) asciende a 7h

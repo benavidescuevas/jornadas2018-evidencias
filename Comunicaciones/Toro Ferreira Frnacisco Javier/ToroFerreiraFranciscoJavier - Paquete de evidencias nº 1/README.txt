@@ -1,0 +1,3 @@
+Se incluyen las evidencias referentes a las tareas de diseño que me han sido asignadas o que yo me he auto-asignado de la lista de tareas pendientes.
+Estas son varias propuestas para el diseño del logotipo de las jornadas, una propuesta para el diseño de las papeletas para el sorteo, el diseño del banner usado para la publicitación de la web y el diseño de la cara exterior del tríptico.
+El número total de horas invertidas en estas tareas es de 9 horas.

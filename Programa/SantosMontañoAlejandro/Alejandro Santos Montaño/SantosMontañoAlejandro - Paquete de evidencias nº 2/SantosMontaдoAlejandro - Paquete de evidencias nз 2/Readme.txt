@@ -1,0 +1,1 @@
+Este paquete lo he puesto como un paquete de miscelanea en el que he incluido las reuniones realizadas y la comunicación con los ponentes, la duración de todo esto ha sido de 7 horas con 55 minutos. En este paquete añado los actas de las reuniones para comprobar su veracidad, así como las capturas de las conversaciones con los ponentes

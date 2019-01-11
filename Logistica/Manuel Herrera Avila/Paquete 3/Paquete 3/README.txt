@@ -1,0 +1,2 @@
+En este paquete se han incluido las evidencias de hacer un presupuesto para finanzas, la reuniones de los organizadores del tournametsii y las evidencias de trabajo del martes por la mañana.
+En total suman 4 horas y 5 minutos.

@@ -1,0 +1,3 @@
+Principalmente he trabajado como encargado de sede durante los 3 días de las jornadas, llegando a sumar mas de 10 horas solo en las jornadas, a las que se añaden 3 horas de participación en la actividad de Tournametsii y en torno a 3 horas adicionales entre reuniones y otras actividades del comité de logística.
+
+En total suman 16 horas y 20 minutos sin contar las horas dobles por asistencia y trabajo.

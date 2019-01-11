@@ -1,0 +1,2 @@
+En este paquete se presentan las evidencias de las comunicaciones con el personal asignado a los mini-jobs correspondientes al museo y la petición de los ordenadores para la exposición.
+Horas totales: 6:00 horas.

@@ -1,0 +1,2 @@
+En este paquete se han incluido las evidencias de ir a un colegio a recoger datos de contacto, una de las reuniones del comité de logística y las evidencias de trabajo del lunes
+En total suman 3 horas y 30 minutos.
