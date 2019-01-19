@@ -1,14 +1,24 @@
 ---------------------------------------------------------------------
 RESUMEN GLOBAL:
 
+Durante toda la organización de las jornadas, creo haber realizado un excelente trabajo. 
+He aportado ideas desde el primer momento, de las cuales tres se han llevado a cabo.
+He participado en varias reuniones, siendo, en algunos casos, el organizador de éstas.
+He contactado con antiguos alumnos para tratar de llevar a cabo una nueva actividad, aunque al final no se pudo realizar, ha sido una buena experiencia.
+He asistido a múltiples conferencias, de lo más interesantes y donde he aprendido muchas cosas nuevas.
+He participado en concursos (y ganado el concurso de ideas de Bitnami) además de participar en la escape room junto al resto de coordinadores.
+He realizado algunos trabajos presenciales en las jornadas, a pesar de tener ya el número mínimo de horas cubierto, ya que han sido muy entretenidas las actividades planteadas y me gustaba seguir formando parte del equipo hasta el final.
+En general me siento muy satisfecho con todo el trabajo realizado durante las jornadas.
+A continuación se especifica un resumen con todas las horas dedicadas, y un informe desglosado de las horas invertidas en cada actividad.
+
 Propuesta de ideas para el programa ----------------> 02:40h
 Reuniones ------------------------------------------> 05:25h
 Gymkhana -------------------------------------------> 17:50h
 Contacto con antiguos alumnos ----------------------> 04:15h
 Asistencia -----------------------------------------> 06:00h
-Trabajos presenciales en jornadas ------------------> 05:15h
+Trabajos presenciales en jornadas ------------------> 04:15h
 
-Tiempo total dedicado ------------------------------> 41:25 h
+Tiempo total dedicado ------------------------------> 40:40 h
 ---------------------------------------------------------------------
 
 DETALLADO:
@@ -80,6 +90,6 @@ DETALLADO:
 16 de Noviembre
 -Mesa Redonda: 11:20 a 12:40 -------------------------------> 2:40h*
 
-*Cuentan horas dobles
+*Cuenta 1 hora y 40 minutos de trabajo, y  1 hora de asistencia.
 
 ---------------------------------------------------------------------

@@ -1,13 +1,17 @@
 ﻿---------------------------------------------------------------------
 RESUMEN de evidencias del paquete nº 1:
 
+En este paquete de evidencias se incluye las propuestas de ideas que realicé con el equipo de programa, las reuniones junto a las actas a las que he asistido durante la organización de la Jornada, el contacto realizado a antiguos alumnos y la asistencia a conferencias, concursos y actividades dentro de las jornadas.
+En líneas generales, me llenó de satisfación saber que tres de las propuestas que realicé las pudimos llevar a cabo, y con bastante éxito. La asistencia a la Jornada fue muy alta, ya que todas las conferencias que se hacían eran interesante, por lo que no me importó pasarme de las horas estipuladas.
+Los concursos que se organizaron estuvieron muy entretenidos, y el hecho de haber ganado el primer premio del concurso de ideas de Bitnami nos hizo mucha ilusión.
+
 Propuesta de ideas para el programa ---> 02:40h
 Reuniones -----------------------------> 05:25h
 Contacto con antiguos alumnos ---------> 04:15h
 Asistencia ----------------------------> 06:00h
 
 Tiempo total dedicado en este paquete -> 18:20h
-Tiempo total dedicado -----------------> 41:25h
+Tiempo total dedicado -----------------> 40:40h
 ---------------------------------------------------------------------
 
 DETALLADO:
